@@ -6,14 +6,14 @@
 * video and audio playing
 
 #### 02. Shortest path  Algorithm implementation
-* An implementation for finding shortest path using Dijkastra algorithm
+* An implementation for finding shortest path using Dijkastra algorithm  
 https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/tutorial/
 
 #### 03. A simple notepad web application
 * You can decide the functionalities which you are going to implement
 
 #### 04. Graph data structure implementation 
-* We suggest to use Java language for the implementations
+* We suggest to use Java language for the implementations  
 https://www.tutorialspoint.com/data_structures_algorithms/graph_data_structure.htm
 
 #### 05. University Card application
@@ -33,20 +33,20 @@ https://www.tutorialspoint.com/data_structures_algorithms/graph_data_structure.h
 * You are free to use any technology
 
 #### 09. Graph data structure implementation
-* We suggest to use Java language for the implementations
+* We suggest to use Java language for the implementations  
 https://www.tutorialspoint.com/data_structures_algorithms/graph_data_structure.htm
 
-#### 10. Tree data structure  implementation
+#### 10. Tree data structure  implementation  
 https://en.wikipedia.org/wiki/Tree_(data_structure)
 
 -----------------------------------------------------------------------------------------------------
 **Idea Level - EASY**
-#### 11. A visualization system for 3 sorting algorithms that you know
+#### 11. A visualization system for 3 sorting algorithms that you know  
 https://brilliant.org/wiki/sorting-algorithms/
 * User-friendly interface (GUI or CLI)
 
 #### 12. Simple car park system
-* You can decide the functionalities which you are going to implement
+* You can decide the functionalities which you are going to implement  
 https://www.tutorialspoint.com/data_structures_algorithms/dsa_queue.htm
 
 #### 13. Typing Trainer application
