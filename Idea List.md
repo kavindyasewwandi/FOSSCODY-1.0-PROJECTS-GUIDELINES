@@ -58,7 +58,7 @@ https://www.tutorialspoint.com/data_structures_algorithms/dsa_queue.htm
 * You can decide the functionalities which you are going to implement
 
 
-#### 15. If you have better idea, Make a proposal on it...
+#### 15. If you have a better idea, Make a proposal on it...
 * We will be decided the level of your idea.
 -----------------------------------------------------------------------
 ```
