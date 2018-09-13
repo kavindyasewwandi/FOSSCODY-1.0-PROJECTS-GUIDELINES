@@ -1,5 +1,6 @@
 ## IDEA LIST for FOSSCODY 1.0 competition
 
+
 **Idea Level - HARD**
 #### 01. A media player application
 * We suggest to use HTML5 and releated technologies for this. But any technology that you used, will accepted.
@@ -15,6 +16,7 @@
 * Think some way to share it when needed (bluetooth, wifi, QR coding)
 * Improvements can be added as wishing
 
+
 **Idea Level - MEDIUM**
 #### 06. A scientific calculator application
 * You can decide the functionalities which you are going to implement
@@ -25,6 +27,7 @@
 #### 09. Graph data structure implementation
 * We suggest to use Java language for the implementations
 #### 10. Tree data structure  implementation
+
 
 **Idea Level - EASY**
 #### 11. A visualization system for 3 sorting algorithms that you know
@@ -42,5 +45,6 @@
 #### 15. If you have better idea, Make a proposal on it...
 * We will be decided the level of your idea.
 -----------------------------------------------------------------------
-```MARKS WILL BE ALLOCATED ACCORDING TO THE MARKING CRITERIA AND THE IDEA LEVEL.
+```
+MARKS WILL BE ALLOCATED ACCORDING TO THE MARKING CRITERIA AND THE IDEA LEVEL.
 ```
