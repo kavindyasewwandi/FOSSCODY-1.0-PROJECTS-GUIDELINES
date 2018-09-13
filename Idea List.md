@@ -48,7 +48,7 @@
 MARKS WILL BE ALLOCATED ACCORDING TO THE MARKING CRITERIA AND THE IDEA LEVEL.
 ```
 
-You should mention the idea number and a proper product name in your project proposal clearly.<br>
+You should mention the **idea number** and a proper **product name** in your project proposal clearly.<br>
 If you have any doubt about the ideas, comment on corresponding issue.
 
 ----------------------------------------------------------------------
