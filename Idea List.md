@@ -59,7 +59,7 @@ https://www.tutorialspoint.com/data_structures_algorithms/dsa_queue.htm
 
 
 #### 15. If you have a better idea, Make a proposal on it...
-* We will be decided the level of your idea.
+* We will decide the level of your idea.
 -----------------------------------------------------------------------
 ```
 MARKS WILL BE ALLOCATED ACCORDING TO THE MARKING CRITERIA AND THE IDEA LEVEL.
