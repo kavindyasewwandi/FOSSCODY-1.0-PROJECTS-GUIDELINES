@@ -37,7 +37,7 @@
 * Gives challengeable texts to type and check the duration.
 * Texts should be appear according to the skill levels. 
 * Need to add some interactive features as wishing.
-#### 14. Color picker application
+#### 14. RGB Color picker application
 * You can decide the functionalities which you are going to implement
 
 
