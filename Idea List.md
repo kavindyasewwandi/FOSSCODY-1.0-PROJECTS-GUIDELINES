@@ -12,9 +12,10 @@ https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/
 #### 03. A simple notepad web application
 * You can decide the functionalities which you are going to implement
 
-#### 04. Graph data structure implementation 
-* We suggest to use Java language for the implementations  
+#### 04. An application using Graph data structure
+* We suggest to use Java language for the implementations 
 https://www.tutorialspoint.com/data_structures_algorithms/graph_data_structure.htm
+* You are free to decide the idea and the system funtioanlities.
 
 #### 05. University Card application
 * An application which work such as a student id card with some uni-related details. 
