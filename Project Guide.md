@@ -1,4 +1,4 @@
-# Starting an Open Source Project
+﻿# Starting an Open Source Project
 
 ## What does “open source” mean?
 When a project is open source, that means anybody can view, use, modify, and distribute your project for any purpose. These permissions are enforced through an open source license.
@@ -85,3 +85,4 @@ For more bot starter projects on Glitch, check out the official [Botwiki page on
 - [botwiki.org/about/support-us](https://botwiki.org/about/support-us)
 
 🙇
+Kawinday
